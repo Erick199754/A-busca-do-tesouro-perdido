@@ -1,5 +1,25 @@
 body {
 background-color: rgba(15, 218, 211, 0.549)
+color :white;
+ font-family: "Libertinus Serif", serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height:700px;
+margin: 0;
+
+}
+
+button {
+   background-color: rgb(255, 183, 0);
 
 
 }
+
+
+
+
+
+
+
+

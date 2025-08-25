@@ -1,5 +1,5 @@
 body {
-background-color: linear-gradient(to right, #2193b0, #6dd5ed);
+background-color: linear-gradient( right, #2193b0, #6dd5ed);
 color :rgb(13, 5, 238);
  font-family: "Libertinus Serif", serif;
 display: flex;

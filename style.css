@@ -12,7 +12,8 @@ margin: 0;
 
 button {
    background-color: rgb(255, 183, 0);
-
+   color: white;
+   font-family: "Libertinus Serif", serif;
 
 }
 
